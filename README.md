@@ -1,6 +1,12 @@
 # Golf-scorecard_Monte
 <html lang="en-us">
   <table>
+    <style>
+  td:last-of-type {
+     font-weight: bold;
+     background-color: gold;
+  }
+</style>
     <tr>
       <td>Names</td>
       <td>Hole 1</td>
