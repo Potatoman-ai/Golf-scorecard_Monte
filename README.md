@@ -1,5 +1,4 @@
 # Golf-scorecard_Monte
-<!DOCTYPE html>
 <html lang="en-us">
   <table>
     <tr>
